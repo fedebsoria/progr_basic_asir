@@ -1,2 +1,2 @@
 # Programación Básica de Primer Año de Asir
-![banner digitech](https://campus.digitechfp.com/pluginfile.php/1/theme_fordson/headerlogo/1745228961/Logo_Campus_GMQTECH_5.png)
+![banner digitech](https://digitechfp.com/wp-content/uploads/2024/09/HZN-03-SIN-CAJA-CIAN-RGB@2x-1024x426.png)
