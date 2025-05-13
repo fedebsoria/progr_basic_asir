@@ -2,12 +2,6 @@ public class Profesor extends Persona{
     private String materia;
     private String cargo;
 
-    public Profesor(String nombre, int edad, String materia, String cargo){
-        super(nombre, edad);
-        this.materia = materia;
-        this.cargo = cargo;
-    }
-
     //metodos materia
     public String getMateria(){
         return this.materia;

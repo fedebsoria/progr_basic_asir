@@ -9,6 +9,10 @@ public class Persona {
     private String nombre;
     private int edad;
 
+    //Constructor vacío
+    public Persona(){
+    }
+
     //Constructor: inicializa Persona
     public Persona(String nombre, int edad){
         this.nombre = nombre;
