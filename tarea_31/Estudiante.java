@@ -1,3 +1,8 @@
+/*
+ * Tarea Herencia I
+ * Alumno: Federico B.  Soria
+ */
+
 public class Estudiante extends Persona{
     private String carrera;
 	private  long legajo;

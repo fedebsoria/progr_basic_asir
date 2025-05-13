@@ -1,8 +1,6 @@
 /*
- * Práctica Clases Extendidas
- * 
+ * Tarea herencia I
  * Alumno: Federico Soria
- * 
  */
 
 public class Persona {

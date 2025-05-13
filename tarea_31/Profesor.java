@@ -1,3 +1,8 @@
+/*
+ * Tarea Herencia I
+ * Alumno: Federico B.  Soria
+ */
+
 public class Profesor extends Persona{
     private String materia;
     private String cargo;
