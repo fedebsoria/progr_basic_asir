@@ -32,7 +32,7 @@ public class main {
         System.out.println("Nombre: " +profesor_equipo7.getNombre());
         System.out.println("Edad: " +profesor_equipo7.getEdad());
         System.out.println("Cargo: " + profesor_equipo7.getCargo());
-        System.out.println("Materia" + profesor_equipo7.getMateria());
+        System.out.println("Materia: " + profesor_equipo7.getMateria());
 
         sc.close();
     }
