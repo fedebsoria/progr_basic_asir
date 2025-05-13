@@ -2,8 +2,8 @@ public class Estudiante extends Persona{
     private String carrera;
 	private  long legajo;
 
-	public Estudiante(String name, int age, String carrera, long legajo) {
-		super(name, age);
+	public Estudiante(String nombre, int edad, String carrera, long legajo) {
+		super(nombre, edad);
         this.carrera = carrera;
         this.legajo = legajo;
 	}
