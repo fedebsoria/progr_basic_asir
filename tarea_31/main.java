@@ -26,7 +26,7 @@ public class main {
         
         //Llamar metodos clase Profesor
         System.out.println("Profesor");
-        profesor_equipo7.setNombre("Naruto Uzumaki");
+        profesor_equipo7.setNombre("Kakashi Hatake");
         profesor_equipo7.setEdad(26);
         profesor_equipo7.setCargo("Joonin");
         profesor_equipo7.setMateria("Sharingan 101");
