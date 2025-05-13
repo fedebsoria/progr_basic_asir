@@ -1,9 +1,10 @@
-import java.util.Scanner;
+/*
+ * Tarea Herencia I
+ * Alumno: Federico B.  Soria
+ */
 
 public class main {
     public static void main(String[] args) {
-        Scanner sc =  new Scanner(System.in);
-
         //Crear objeto clase estudiante y llamar sus metodos
         Estudiante estudiante_equipo7 = new Estudiante();
 
@@ -33,7 +34,5 @@ public class main {
         System.out.println("Edad: " +profesor_equipo7.getEdad());
         System.out.println("Cargo: " + profesor_equipo7.getCargo());
         System.out.println("Materia: " + profesor_equipo7.getMateria());
-
-        sc.close();
     }
 }
